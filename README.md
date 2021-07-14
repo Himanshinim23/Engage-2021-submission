@@ -33,7 +33,7 @@ __To run the Web App on your local device :__
 
 Clone the repo to your local device or download the zip file.    
 Once in the project folder , download the needed node modules by running npm install express in the integrated terminal       
-Run the server by running the command nodemon server.js     
+Run the server by running the command npm start     
 The server will be running locally at localhost:3030     
 
 
