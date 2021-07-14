@@ -40,4 +40,4 @@ The server will be running locally at localhost:3030
 
 __To access the web app :__
 
-Click here : https://desolate-beach-34594.herokuapp.com/e79f2df2-33b3-4fc0-bc99-189b0178b8c0
+Click here : https://desolate-beach-34594.herokuapp.com
