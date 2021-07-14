@@ -40,4 +40,5 @@ The server will be running locally at localhost:3030
 
 __To access the web app :__
 
-Click here : https://desolate-beach-34594.herokuapp.com
+Click here : https://desolate-beach-34594.herokuapp.com      
+Each click creates a new unique room. To connect with people , click on copy meet info and share the copied link with your friends ! Let's get Talking :)
